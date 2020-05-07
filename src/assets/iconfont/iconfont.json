@@ -1,0 +1,37 @@
+{
+  "id": "1803201",
+  "name": "VideoMonitor",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14511377",
+      "name": "real",
+      "font_class": "real",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "14511378",
+      "name": "replay",
+      "font_class": "replay",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "14511379",
+      "name": "setting",
+      "font_class": "setting",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "14511381",
+      "name": "warn",
+      "font_class": "warn",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    }
+  ]
+}
